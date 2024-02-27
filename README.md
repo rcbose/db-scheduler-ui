@@ -38,7 +38,7 @@ dashboard for monitoring and basic administration of tasks.
 1. Add the db-scheduler-ui spring boot starter maven dependency
 ```xml
 <dependency>
-    <groupId>no.bekk.db-scheduler-ui</groupId>
+    <groupId>no.rcbose.db-scheduler-ui</groupId>
     <artifactId>db-scheduler-ui-starter</artifactId>
     <version>1.0.1</version>
 </dependency>
